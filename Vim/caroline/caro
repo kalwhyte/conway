@@ -1,0 +1,6 @@
+list = ls
+remove = rmdir/rm 
+change
+copy
+move
+create=touch
